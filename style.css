@@ -1,0 +1,28 @@
+body {
+	background: cadetblue;
+}
+h1 {
+	font-family: sans-serif;
+	color: white;
+}
+#container {
+	margin: 0px auto;
+	border: 1px solid black;
+	text-align: center;
+}
+.pieces {
+	display: inline-block;
+	width: fit-content;
+	padding: 1px;
+	margin: 0px;
+}
+.buttons {
+	width: 50%;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.imgContainer {
+	text-align: center;
+	margin: 0px auto;
+}
